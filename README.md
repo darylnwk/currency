@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/darylnwk/currency.svg?branch=master)](https://travis-ci.com/darylnwk/currency)
+
 # currency
 --
     import "github.com/darylnwk/currency"
