@@ -13,4 +13,4 @@ coverage: ## Generate global code coverage report
 
 dep: ## Get the dependencies
 	go get -v -t ./...
-	go install github.com/golang/lint/golint
+	go get -u golang.org/x/lint/golint
